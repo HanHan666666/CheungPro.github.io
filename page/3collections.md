@@ -21,7 +21,7 @@ type: page
     Andrew Ng教授的机器学习
     
 * [机器学习](https://www.icourse163.org/learn/ZJU-1206573810)
-    （双语）胡浩基教授的机器学习
+    胡浩基教授的机器学习
     
 * [概率论与数理统计](https://www.icourse163.org/course/ZJU-232005)
     张帼奋等教授的概率论与数理统计
