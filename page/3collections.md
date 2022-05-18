@@ -20,8 +20,26 @@ type: page
 * [CS229](https://cs229.stanford.edu/)
     Andrew Ng教授的机器学习
     
+* [机器学习](https://www.icourse163.org/learn/ZJU-1206573810)
+    （双语）胡浩基教授的机器学习
+    
 * [概率论与数理统计](https://www.icourse163.org/course/ZJU-232005)
     张帼奋等教授的概率论与数理统计
+    
+* [计量经济学](https://www.icourse163.org/learn/UESTC-1001807007)
+    陈磊 、杨政教授的计量经济学
+    
+* [时间序列分析](https://www.icourse163.org/learn/XMU-1461788171)
+    （双语）李木易教授的时间序列分析
+    
+* [概率论与统计学](https://www.icourse163.org/learn/XMU-1206678826)
+    （双语）洪永淼教授的概率论与统计学
+    
+* [高级计量经济学](https://www.icourse163.org/learn/XMU-1002606048)
+    （双语）洪永淼教授的高级计量经济学
+    
+
+
 
 ## Comments
 
