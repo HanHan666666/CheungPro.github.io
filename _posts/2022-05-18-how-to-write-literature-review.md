@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "如何写学术论文的文献综述"
+title:  "How to write literature review to thesis如何写学术论文的文献综述"
 date:  2022-05-18 06:14:54
 categories: thesis 论文
 tags: thesis literature review 文献综述
