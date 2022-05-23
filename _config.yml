@@ -7,7 +7,7 @@
 
 # Site settings
 title: hengrui tech blog
-brief-intro: Math and Statistics，主要研究数理统计，计算机（机器学习，数据挖掘算法），经济与金融。
+brief-intro: 主要研究数理统计，等
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hengrui.tech" # the base hostname & protocol for your site
 
