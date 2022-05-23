@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summarize of Linear Algebra 线性代数内容总结"
+title:  "Summarize of Linear Algebra 线性代数内容总结（1）"
 date:  2022-04-04 06:14:54
 categories: Linear Algebra
 tags: Linear Algebra
@@ -23,6 +23,6 @@ mathjax: true
 ### 矩阵的乘法
 若矩阵$ A\times B $，若A是mxn矩阵，B为pxq矩阵，必须有n=p。
 
-### 矩阵的
+### 矩阵的逆运算
 
-阿啦啦啦 我没写完呀～
+若一个矩阵存在，$ A\times B=B\times A= I $，则称矩阵$B$ 为矩阵$A$的逆矩阵，记为$A^-1=B$
