@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: hengrui tech
-brief-intro: Math and Statistics
+title: hengrui tech blog
+brief-intro: Math and Statistics，主要研究数理统计，计算机（机器学习，数据挖掘算法），经济与金融。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hengrui.tech" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 记录我的统计学学习之路！数学，计算机，经济与金融！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
