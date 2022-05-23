@@ -17,6 +17,9 @@ type: page
 * [MIT 18.065](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
     Gilbert Strang教授的线性代数、数据分析和机器学习
     
+* [应用多元统计](https://www.icourse163.org/learn/SHUFE-1003381022)
+    王学民教授的应用多元统计分析
+    
 * [CS229](https://cs229.stanford.edu/)
     Andrew Ng教授的机器学习
     
