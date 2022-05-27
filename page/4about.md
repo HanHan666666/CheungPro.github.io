@@ -21,7 +21,7 @@ Email： danielzhang2021@outlook.com
 
 ## 友情链接
 
- [震惊部](blog.666baby.com)
+ [震惊部](https://blog.666baby.com)
 
 ## Comments
 
