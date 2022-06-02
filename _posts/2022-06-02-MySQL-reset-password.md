@@ -16,6 +16,7 @@ mathjax: true
 我在ubuntu20.04系统下使用apt安装的mysql8.0，安装时未提示设置root用户密码。（如果遇到提示，那么就按照提示设置初始密码即可）
 
 使用命令`sudo cat /etc/mysql/debian.cnf` 查看mysql的默认密码
+![image](https://user-images.githubusercontent.com/63193298/171538270-1932aa6b-b9f0-4be4-90bd-a664b384f160.png)
 
 password后面的可以复制下来，这就是root账号的密码。
 
