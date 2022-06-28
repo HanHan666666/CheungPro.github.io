@@ -20,7 +20,7 @@ type: page
 Email： danielzhang2021@outlook.com
 
 ## 友情链接
-
+ [hengrui炒股研究院](https://stock.hengrui.tech)
  [震惊部](https://blog.666baby.com)
 
 ## Comments
