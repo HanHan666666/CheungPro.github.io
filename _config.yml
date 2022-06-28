@@ -7,7 +7,7 @@
 
 # Site settings
 title: hengrui tech blog
-brief-intro: 主要研究数理统计，等
+brief-intro: 主要研究统计学。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hengrui.tech" # the base hostname & protocol for your site
 
