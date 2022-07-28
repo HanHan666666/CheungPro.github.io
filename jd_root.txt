@@ -1,4 +1,1 @@
----
-permalink: /jd_root.txt
----
 e95d2f4a675fe6f24fab141128c0123c644583894fcf1b3f
