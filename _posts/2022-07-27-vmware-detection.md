@@ -28,7 +28,7 @@ Tools:
 
 # 对虚拟机进行修改
 
-使用PhoenixBIOS软件，打开并编辑文件`BIOS.440.ROM`。请将下图黄色区域的文字进行修改。修改后不要保留VMware字样。
+使用PhoenixBIOS软件（可能需要在兼容模式下运行，Windows98操作系统），打开并编辑文件`BIOS.440.ROM`。请将下图黄色区域的文字进行修改。修改后不要保留VMware字样。
 
 ![image](https://user-images.githubusercontent.com/63193298/181669516-6ed89443-3d43-4541-a76b-2c4ee38f23b3.png)
 
