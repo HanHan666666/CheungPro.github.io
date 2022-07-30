@@ -19,8 +19,14 @@ type: page
 
 Email： danielzhang2021@outlook.com
 
-## 友情链接
+
+
+ [hengrui公开课频道](https://opencourseware.hengrui.tech)
  [hengrui炒股研究院](https://stock.hengrui.tech)
+ [hengrui优惠薅羊毛](https://haoyangmao.hengrui.tech)
+ [hengrui疯狂星期四<玩笑梗>](https://invest.hengrui.tech)
+ 
+## 友情链接
  [震惊部](https://blog.666baby.com)
 
 ## Comments
