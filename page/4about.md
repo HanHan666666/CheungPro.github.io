@@ -17,7 +17,7 @@ type: page
 
 ## 联系我
 
-Email： daniel@hengrui.tech  danielzhang2021@outlook.com
+Email： daniel@hengrui.tech  |  danielzhang2021@outlook.com
 
 
 
