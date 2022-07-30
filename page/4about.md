@@ -20,7 +20,7 @@ type: page
 Email： daniel@hengrui.tech  |  danielzhang2021@outlook.com
 
 
-
+ [hengrui tech blog](https://hengrui.tech) | 
  [hengrui公开课频道](https://opencourseware.hengrui.tech) | 
  [hengrui炒股研究院](https://stock.hengrui.tech) | 
  [hengrui优惠薅羊毛](https://haoyangmao.hengrui.tech) | 
