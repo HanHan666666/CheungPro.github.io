@@ -60,7 +60,8 @@ c.ServerApp.preferred_dir = r'D:\jupyterLab'
 ```
 
 修改密码：最好是通过这个方式设置密码
-![image](https://user-images.githubusercontent.com/63193298/192081122-a4a55096-43e9-4eef-9eee-9db1e54be6fb.png)
+![image](https://user-images.githubusercontent.com/63193298/203016862-9e8fe0ac-aa2e-4987-a0ae-a3febff81c30.png)
+温馨提示：输入时没有提示是正常的
 
 设置允许远程访问
 ```
